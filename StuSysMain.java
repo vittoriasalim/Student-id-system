@@ -5,7 +5,7 @@ public class StuSysMain
   private void MainMenu()
   {
     System.out.println("=====================================================================================");
-    System.out.println("|                         WELCOME TO CIMP STUDENT SYSTEM                            |");
+    System.out.println("|                                 STUDENT SYSTEM                                    |");
     System.out.println("=====================================================================================");
     System.out.println("|     1. NEW STUDENT     |       2. RETURNING STUDENT         |     3. EXIT SYSTEM  |");
     System.out.println("=====================================================================================");
